@@ -39,7 +39,7 @@
 ## 📌 Top Projects
 🔹 Data Analysis Dashboard (Power BI)  
 🔹 Chatbot for College Information System  
-🔹 SQL-based Data Insights Project  
+🔹 Credit Card Fruad Detection using python
 
 ---
 
