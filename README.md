@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshya Prasad</h1>
-<h3 align="center">Data Analyst | AI Enthusiast | Power BI • SQL • Python</h3>
+<h3 align="center">Data Analyst | AI Enthusiast | Java • SQL • Python</h3>
 
 ---
 
